@@ -28,7 +28,5 @@ public class Day3DpCodes {
 
         System.out.println(dp[n]);
 
-        
-
     }
 }
