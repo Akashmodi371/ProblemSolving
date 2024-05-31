@@ -11,7 +11,7 @@ public class microsoftsde1dp {
             arr[i] = sc.nextInt();
         }
 
-        int[][][] dp = new int[1005][1005][4];
+        int[][][] dp = new int[1005][1005][4]; // Space O(1005)(1005)(4)
 
         int sum1 = arr[1] + arr[n];
         int sum2 = arr[1] + arr[2];
@@ -33,8 +33,7 @@ public class microsoftsde1dp {
                 dp[start][start + 1][3] = Math.max(g, dp[start][start + 1][3]);
             }
             start++;
-        }
-
+        } // time complexity O(N)
 
         int l=3;
         while(l<=n){
@@ -90,3 +89,6 @@ public class microsoftsde1dp {
     }
 
 }
+
+
+///TC:- O(N*N)+O(N)-> O(N^2)
