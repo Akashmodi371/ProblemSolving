@@ -38,18 +38,6 @@ public class GoogleSDEIntern {
         }
 
         System.out.println(dp[n]);
-
-
-
-
-
-
-
-
-
-
-
-
-        
+       
     }
 }
