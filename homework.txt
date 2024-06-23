@@ -1,0 +1,96 @@
+1. Video 1 :-> Understanding The Coding Plan
+
+	a.Beginner :->Who solved less than 100 questions
+	b.Intermediate: who solved more than 100 questions
+	c. Watch Video of anuj bhaiya
+	d. Follow flow chart 
+	
+	Revision Plan:
+	a.Creating personal doc
+	b.adding links of code in it
+	
+2. Video 2: -> 
+	a. Dont act like a robot ... little bit of informal connnect is needed
+	b. Maintain smile during some moments
+	c. Never stress much ... interviewer is a human as well.
+	 
+	 Technical  points:
+	 a. Use good Variable names
+	 b. use proper methods/functions.
+	 c. Follow indentation
+	 d. Try to explain each line of code
+	 e. Never jump on code directly
+	 f. As soon u got coding problem ask doubts, assumptions,requirements.
+	 
+step0:	 
+As you got question ask questions related to question either you don't have try to act as a have questions
+
+step1:Talk about the solution
+make Example test cases.
+
+step2: Talk about approaches
+		1. I have bruite force approach and its time and space complexity this.
+		2. I have optimized approach and its time and sapce complexity this.
+
+step3:
+a. variable name should be perfect
+b. Try to indentate code
+c. Use functions whenever required
+d. Discuss corner cases
+e. speak clearly while writing or explaining code.
+
+step4: Write code
+
+Step5: Dry run the code
+Note-> If there is time
+Dry run-> it is considered as actual working of code.
+
+Step6:Ask questions to interview about the company or anything
+
+-> How did you join the company.
+-> How was your journye so far?
+-> how many time take to reach SDE2:
+-> what tech stack/domain  teach you worked for.
+
+
+Video3:
+Non-technical 
+1. Number of linkedin Connection. It should be more than 2000-5000
+2. Linkedin Visibility: Try to be active on linkedin
+3. Linkedin Application: 
+4. Apply 10-25 daily
+5. Resume Improvement.
+6. Linkedin Profile Improvement:
+7. Linekdin Algorithm
+8, Dev session/Intern
+
+
+Communication Skills
+1. clearity and depth of expression: Masala daal kr thoda jor se bolna.
+2. psychology Trick : Pulling the direction of interview in your side.
+
+
+Mindeset:
+if I try here and there and try harder i will got answers.
+
+
+Health:
+
+
+Resume :Make two resume with different email id and number;
+
+Referral: 
+
+
+
+
+Video4:
+
+1. Daily Revision 
+	. Create document for each topic
+	. Add question link and its approaches.
+2. DSA for interview
+	. Popular 500-600 interview questions.
+3. DSA for OA.
+	. Hard than interview.
+		
